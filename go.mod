@@ -1,4 +1,4 @@
-module github.com/zclconf/go-cty
+module github.com/Nciso/go-cty
 
 require (
 	github.com/apparentlymart/go-textseg/v15 v15.0.0
